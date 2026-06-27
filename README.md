@@ -1,3 +1,5 @@
+<img src=./images/coding-dog.png>
+
 <div align="center">
 
 # Gota | Consultant × Engineer
